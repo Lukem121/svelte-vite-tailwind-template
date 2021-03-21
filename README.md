@@ -1,11 +1,21 @@
-# Svelte + Vite
+# svelte-vite-tailwindcss-template
 
-This template should help get you started developing with Svelte in Vite.
+This is a fork of Svelte's project template to enable usage of Tailwindcss. Refer to https://github.com/sveltejs/template for more info.
 
-## Recommended IDE Setup
+To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
-[VSCode](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+```bash
+npx degit lukem121/svelte-vite-tailwind-template svelte-app
+cd svelte-app
+```
 
-## Need an official Svelte framework?
+_Note that you will need to have [Node.js](https://nodejs.org) installed._
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+## Get started
+
+Install the dependencies...
+
+```bash
+cd svelte-app
+npm install
+```
