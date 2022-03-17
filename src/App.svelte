@@ -1,7 +1,7 @@
 <script>
   import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
-  import './lib/TailwindCSS.svelte'
+  import './lib/Tailwind.css'
   let increment;
 </script>
 
