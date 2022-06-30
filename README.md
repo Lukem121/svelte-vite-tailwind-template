@@ -1,4 +1,4 @@
-# svelte-vite-tailwindcss-template
+# svelte-vite-tailwindcss3-template
 
 This is a fork of Svelte's project template to enable usage of Tailwindcss. Refer to https://github.com/sveltejs/template for more info.
 
